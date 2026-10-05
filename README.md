@@ -1,7 +1,7 @@
 
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=2FDDF7&width=435&lines=Aparna+Singh" alt="Typing SVG" />
-</p>
+</h1>
 
 ---
 
