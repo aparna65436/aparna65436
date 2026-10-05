@@ -1,9 +1,18 @@
-
+<table>
+<tr>
+<td width="60%">
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=2FDDF7&width=435&lines=Aparna+Singh" alt="Typing SVG" />
 </h1>
+<td width="40%">
 
----
+<img src="https://c.tenor.com/GD9UKMwnxYIAAAAC/tenor.gif">
+
+</td>
+
+</tr>
+</table>
+
 
 
 <>👩‍💻 About Me</h2>
